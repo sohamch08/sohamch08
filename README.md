@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lambdasolver
+- 👋 Hi, I’m lambdasolver
 - 👀 I’m interested in ... Mathematics, Computer Science, Anime and Games
 - 🌱 I’m currently learning ... Programming and Pure math topics
 - 💞️ I’m looking to collaborate on ...
