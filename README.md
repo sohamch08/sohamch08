@@ -9,7 +9,7 @@
 <img align="left" width="47%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambdasolver&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true)](https://git.io/streak-stats"/>
 
 
-<!--
+
 <ul style="list-style-type: none">
 <li><img align="left" width="10%" height="30" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/></li>
 <li><img align="left" width="10%" height="30" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/></li>
@@ -34,7 +34,7 @@
 <img align="left" width="10%" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/>
 <img align="left" width="10%" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
 
--->
+
 
 
 <!---
