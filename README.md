@@ -1,12 +1,12 @@
-- 👋 Hi, I’m lambdasolver
+- 👋 Hi, I’m Soham Chatterjee
 - 👀 I’m interested in ... Mathematics, Computer Science, Anime and Games
 - 🌱 I’m currently learning ... Programming and Pure math topics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sohamchatterjee999@gmail.com
 
 
-<img align="left" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=lambdasolver&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img align="left" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambdasolver&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
+<img align="left" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=sohamch08&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img align="left" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamch08&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide_border=true"/>
 
 ## Tools I have Used 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
