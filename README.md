@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Soham Chatterjee
-- 👀 I’m interested in ... Mathematics, Computer Science, Anime and Games
-- 🌱 I’m currently learning ... Programming and Pure math topics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Mathematics, Theoretical Computer Science
+- 🌱 I love to spend time watching anime or play games in my freetime
+- 👨‍💻 I’m currently learning ...  Complexity Theory, Quantum Computing and some pure math topics. You can take a look at my [CV](https://sohamch08.github.io/cv.pdf)
 - 📫 How to reach me ... sohamchatterjee999@gmail.com
+- Yoy can check out my [website](https://sohamch08.github.io/)
 
 
 <img align="left" width="49%" height="40%" src="https://github-readme-stats.vercel.app/api?username=sohamch08&show_icons=true&theme=tokyonight&hide_border=true"/>
