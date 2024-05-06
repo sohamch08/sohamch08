@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soham Chatterjee
 - 👀 I’m interested in ... Mathematics, Theoretical Computer Science
 - 🌱 I love to spend time watching anime or play games in my freetime
-- 👨‍💻 I’m currently learning ...  Complexity Theory, Quantum Computing and some pure math topics. You can take a look at my [CV](https://sohamch08.github.io/cv.pdf)
+- 👨‍💻 I’m a student. I have just completed my Bachelors in Mathematics and Computer Science ...  Complexity Theory, Quantum Computing and some pure math topics. You can take a look at my [CV](https://sohamch08.github.io/cv.pdf)
 - 📫 How to reach me ... sohamchatterjee999@gmail.com
 - 🔗 You can check out my [website](https://sohamch08.github.io/)
 
@@ -30,12 +30,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Operating Systems I Have Used
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+I use Linux in my daily life. Currently, I am using Debian. The distributions i have been using are the following
 
-### In Linux I have used the distros:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
