@@ -67,14 +67,12 @@ Currently on **Debian**, but I’ve used several other distributions:
 ---
 
 ### 🔗 Connect With Me
-<p align="center">
   <a href="https://sohamch08.github.io" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:sohamchatterjee999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
 
 ---
 
