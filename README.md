@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soham Chatterjee
 - 👀 I’m interested in ... Mathematics, Theoretical Computer Science
 - 🌱 I love to spend time watching anime or play games in my freetime
-- 👨‍💻 I’m a student. I have just completed my Bachelors in Mathematics and Computer Science ...  Complexity Theory, Quantum Computing and some pure math topics. You can take a look at my [CV](https://sohamch08.github.io/cv.pdf)
+- 👨‍💻 I’m a student. I have just completed my Bachelors in Mathematics and Computer Science ...  Complexity Theory, Quantum Computing and some pure math topics. You can take a look at my [CV]([https://sohamch08.github.io/cv.pdf](https://sohamch08.github.io/assets/cv.pdf))
 - 📫 How to reach me ... sohamchatterjee999@gmail.com
 - 🔗 You can check out my [website](https://sohamch08.github.io/)
 
