@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 I’ve just completed my **Bachelors in Mathematics and Computer Science**.
-- 🧠 Interested in **Complexity Theory**, **Quantum Computing**, and **Pure Mathematics**.
+- 🧠 Interested in  **Algorithms**, **Complexity Theory**, **Combinatorics** and **Pure Mathematics**.
 - 🎮 In my free time, I love watching **anime** and playing **video games**.
 - 📄 You can check my **[CV here](https://sohamch08.github.io/assets/cv.pdf)**.
 - 🌐 Visit my **[personal website](https://sohamch08.github.io)**.
