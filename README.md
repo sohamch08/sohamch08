@@ -1,7 +1,7 @@
 <!-- Typing SVG Animation -->
 <p align="center">
   <a href="https://sohamch08.github.io">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Soham+Chatterjee;PhD+Student+%26+Theoretical+CS+Enthusiast;Complexity+Theory+Explorer;Anime+Lover+%7C+Math+Geek" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Soham+Chatterjee;PhD+Student+%26+Theoretical+CS+Enthusiast;Complexity+Theory+Explorer;I+use+NixOS+btw;Anime+Lover+%7C+Math+Geek" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,12 +28,12 @@
 
 ### 🔹 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=latex,markdown,bash,python,java,haskell,html,css" />
+  <img src="https://skillicons.dev/icons?i=latex,markdown,bash,nix,python,haskell,html,css" />
 </p>
 
 ### 🔹 Tools & Editors
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,neovim,obsidian,gimp" />
+  <img src="https://skillicons.dev/icons?i=git,emacs,neovim,obsidian,vscode" />
 </p>
 
 ### 🔹 Quantum Computing
@@ -43,6 +43,7 @@
 
 ### 🔹 Operating Systems
 <p>
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
