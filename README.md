@@ -53,10 +53,12 @@
 
 ## 📊 GitHub Stats
 
+<!---
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sohamch08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamch08&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+--->
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sohamch08&theme=tokyonight&hide_border=true" />
