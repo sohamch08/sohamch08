@@ -1,7 +1,7 @@
 <!-- Typing SVG Animation -->
 <p align="center">
   <a href="https://sohamch08.github.io">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Soham+Chatterjee;PhD+Student+%26+Theoretical+CS+Enthusiast;Complexity+Theory+Explorer;I+use+NixOS+btw;Anime+Lover+%7C+Math+Geek" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Soham+Chatterjee;PhD+Student+%26+Theoretical+CS+Enthusiast;Complexity+Theory+Explorer;Anime+Lover+%7C+Math+Geek" alt="Typing SVG" />
   </a>
 </p>
 
