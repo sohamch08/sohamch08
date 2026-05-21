@@ -22,7 +22,7 @@ PhD Student · Theoretical Computer Science
 
 **Tools**
 
-[LaTeX](https://www.latex-project.org) · [Git](https://git-scm.com) · [Emacs](https://www.gnu.org/software/emacs) · [Neovim](https://neovim.io) · [Obsidian](https://obsidian.md) · [NixOS](https://nixos.org)
+[LaTeX](https://www.latex-project.org) · [Git](https://git-scm.com) · [Emacs](https://www.gnu.org/software/emacs) · [Neovim](https://neovim.io) · [Obsidian](https://obsidian.md)
 
 ---
 
