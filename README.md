@@ -29,7 +29,7 @@ PhD Student · Theoretical Computer Science
 <div align="center">
 
 <div align="center">
-  <img src="bfetch.svg" />
+  <img src="myfetch.svg" />
 </div>
 
 ---
