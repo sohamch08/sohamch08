@@ -16,15 +16,13 @@ PhD Student · Theoretical Computer Science
 - **Algebraic Methods:** complexity theory and coding theory
 - **Pure Mathematics:** algebraic geometry and number theory
 
-### LaTeX Projects
+### 📚 LaTeX Projects
 
 - **MSc thesis:** [Exponential Sums and Weil Bounds](https://github.com/sohamch08/msc-project-tifr).
-- **Lecture notes:** [Algorithms](https://github.com/sohamch08/algorithms-tifr) · [Topics in Coding Theory](https://github.com/sohamch08/advance-coding-theory-tifr) · [Combinatorics](https://github.com/sohamch08/mfcs-tifr) · [Multivariable Analysis](https://github.com/sohamch08/multivariable-analysis-CMI).
-- **[Lumina](https://github.com/sohamch08/lumina)** · My LaTeX theme for lecture notes, reports, and theses.
+- **Lecture notes:** [Algorithms](https://github.com/sohamch08/algorithms-tifr) · [Topics in Coding Theory](https://github.com/sohamch08/advance-coding-theory-tifr) · [Combinatorics](https://github.com/sohamch08/mfcs-tifr) · [Multivariable Calculus](https://github.com/sohamch08/multivariable-analysis-CMI).
+- **LaTeX Theme:** My LaTeX theme [Lumina](https://github.com/sohamch08/lumina) for lecture notes, reports, and theses.
 
-More in my [LaTeX archive](https://github.com/sohamch08/LaTeX).
-
-### Selected Projects
+### 🛠️ Selected Projects
 
 - **[HyprLife](https://github.com/sohamch08/HyprLife)** · My Hyprland desktop configuration and workflow.
 - **[hyprZoom](https://github.com/sohamch08/hyprZoom)** · Window management, chat notifications, and screen-sharing fixes for Zoom on Hyprland.
@@ -35,16 +33,12 @@ More in my [LaTeX archive](https://github.com/sohamch08/LaTeX).
 
 ### Tools
 
-<p>
-  <a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LaTeX-Dark.svg" alt="LaTeX" title="LaTeX" width="48" height="48" /></a>
-  <a href="https://neovim.io/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NeoVim-Dark.svg" alt="Neovim" title="Neovim" width="48" height="48" /></a>
-  <a href="https://obsidian.md/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Obsidian-Dark.svg" alt="Obsidian" title="Obsidian" width="48" height="48" /></a>
-  <a href="https://hypr.land/"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/hyprland-dark.svg" alt="Hyprland" title="Hyprland" width="48" height="48" /></a>
-  <a href="https://www.zsh.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Zsh" title="Zsh (Bash icon)" width="48" height="48" /></a>
-  <a href="https://github.com/tmux/tmux/wiki"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/tmux-dark.svg" alt="tmux" title="tmux" width="48" height="48" /></a>
-  <a href="https://neomutt.org/"><img src="assets/neomutt.svg" alt="NeoMutt" title="NeoMutt" width="48" height="48" /></a>
-  <a href="https://www.gopass.pw/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" alt="gopass" title="gopass (Go icon)" width="48" height="48" /></a>
-</p>
+[![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=flat&logo=latex&logoColor=008080&labelColor=0d1117)](https://www.latex-project.org/)
+[![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=flat&logo=neovim&logoColor=57A143&labelColor=0d1117)](https://neovim.io/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-0d1117?style=flat&logo=obsidian&logoColor=A88BFA&labelColor=0d1117)](https://obsidian.md/)
+[![Hyprland](https://img.shields.io/badge/Hyprland-0d1117?style=flat&logo=hyprland&logoColor=58E1FF&labelColor=0d1117)](https://hypr.land/)
+[![Zsh](https://img.shields.io/badge/Zsh-0d1117?style=flat&logo=zsh&logoColor=F15A24&labelColor=0d1117)](https://www.zsh.org/)
+[![tmux](https://img.shields.io/badge/tmux-0d1117?style=flat&logo=tmux&logoColor=1BB91F&labelColor=0d1117)](https://github.com/tmux/tmux/wiki)
 
 <br>
 
